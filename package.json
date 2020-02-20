@@ -1,0 +1,21 @@
+{
+  "name": "greatoo-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "@dcloudio/uni-ui": "^1.0.0",
+    "animate.css": "^3.7.2",
+    "flyio": "^0.6.14",
+    "lodash": "^4.17.15",
+    "mockjs": "^1.1.0",
+    "vue-moment": "^4.0.0"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,95 @@
+.page_block {
+	
+}
+
+.page_body{
+	padding: 35rpx;
+	/* padding-top: 200rpx; */
+	/* background-color: antiquewhite; */
+}
+.shortcut_block {
+
+	display: flex;
+	justify-content: space-between;
+
+	color: #333333;
+	font-size: 36rpx;
+	font-weight: bold;
+}
+
+.icon-saoma {
+	margin-right: 25rpx;
+}
+
+.logo_block {
+	padding-bottom: 24rpx;
+}
+
+.image_banner {
+	width: 682rpx;
+	height: 278rpx;
+	border-radius: 10rpx;
+}
+
+.news_block {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.news_state {
+
+	padding: 10rpx;
+
+	color: #eb5e58;
+	background-color: #ffe6e5;
+	border-radius: 5rpx;
+	font-size: 22rpx;
+}
+
+.news_title {
+	display: inline-block;
+	width: 515rpx;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	font-size: 26rpx;
+}
+
+.news_more {
+	font-size: 26rpx;
+}
+
+.action_block {
+	margin-top: 35rpx;
+}
+
+.action_module_title {
+
+	font-size: 36rpx;
+	font-weight: bold;
+}
+.action_module_content{
+	
+	padding: 30rpx 0rpx;
+	
+	display: flex;
+	flex-wrap: wrap;
+	
+}
+.action_entrance_single{
+	
+	width: 25%;
+	text-align: center;
+	padding: 12rpx 0rpx;
+}
+.action_entrance_single span{
+	display: block;
+	
+}
+.action_entrance_single span:first-child{
+	font-size: 60rpx;
+}
+.action_entrance_single span:last-child{
+	font-size: 25rpx;
+}

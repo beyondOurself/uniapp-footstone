@@ -1,0 +1,13 @@
+{
+	"long":{
+		"name":"long",
+		"age|18-100":18,
+		"gender":"男"
+	},
+	"long1":{
+		"name":"long1",
+		"age":20,
+		"gender":"女"
+	}
+	
+}
